@@ -1,0 +1,18 @@
+c:\users\rivale\documents\visual studio 2015\Projects\obstacle avoidance1\obstacle avoidance1\bin\Debug\obstacle avoidance1.exe.config
+c:\users\rivale\documents\visual studio 2015\Projects\obstacle avoidance1\obstacle avoidance1\bin\Debug\obstacle avoidance1.exe
+c:\users\rivale\documents\visual studio 2015\Projects\obstacle avoidance1\obstacle avoidance1\bin\Debug\obstacle avoidance1.pdb
+c:\users\rivale\documents\visual studio 2015\Projects\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle avoidance1.csprojResolveAssemblyReference.cache
+c:\users\rivale\documents\visual studio 2015\Projects\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle_avoidance1.Form1.resources
+c:\users\rivale\documents\visual studio 2015\Projects\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle_avoidance1.Properties.Resources.resources
+c:\users\rivale\documents\visual studio 2015\Projects\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle avoidance1.csproj.GenerateResource.Cache
+c:\users\rivale\documents\visual studio 2015\Projects\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle avoidance1.exe
+c:\users\rivale\documents\visual studio 2015\Projects\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle avoidance1.pdb
+C:\Users\ga47boh\Downloads\obstacle avoidance1\obstacle avoidance1\obstacle avoidance1\bin\Debug\obstacle avoidance1.exe.config
+C:\Users\ga47boh\Downloads\obstacle avoidance1\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle avoidance1.exe
+C:\Users\ga47boh\Downloads\obstacle avoidance1\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle avoidance1.pdb
+C:\Users\ga47boh\Downloads\obstacle avoidance1\obstacle avoidance1\obstacle avoidance1\bin\Debug\obstacle avoidance1.exe
+C:\Users\ga47boh\Downloads\obstacle avoidance1\obstacle avoidance1\obstacle avoidance1\bin\Debug\obstacle avoidance1.pdb
+C:\Users\ga47boh\Downloads\obstacle avoidance1\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle avoidance1.csprojResolveAssemblyReference.cache
+C:\Users\ga47boh\Downloads\obstacle avoidance1\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle_avoidance1.Form1.resources
+C:\Users\ga47boh\Downloads\obstacle avoidance1\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle_avoidance1.Properties.Resources.resources
+C:\Users\ga47boh\Downloads\obstacle avoidance1\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle avoidance1.csproj.GenerateResource.Cache
