@@ -16,3 +16,6 @@ C:\Users\ga47boh\Downloads\obstacle avoidance1\obstacle avoidance1\obstacle avoi
 C:\Users\ga47boh\Downloads\obstacle avoidance1\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle_avoidance1.Form1.resources
 C:\Users\ga47boh\Downloads\obstacle avoidance1\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle_avoidance1.Properties.Resources.resources
 C:\Users\ga47boh\Downloads\obstacle avoidance1\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle avoidance1.csproj.GenerateResource.Cache
+C:\Users\Utente\Documents\GitHub\Software-Lab\obstacle avoidance1\obstacle avoidance1\bin\Debug\obstacle avoidance1.exe.config
+C:\Users\Utente\Documents\GitHub\Software-Lab\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle avoidance1.exe
+C:\Users\Utente\Documents\GitHub\Software-Lab\obstacle avoidance1\obstacle avoidance1\obj\Debug\obstacle avoidance1.pdb
